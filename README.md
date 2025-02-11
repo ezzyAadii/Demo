@@ -1,4 +1,4 @@
 # Demo
 My first Git Repo.
 <br>
-Author - Aditya mehra
+Author - Aditya Mehra (Goat)
